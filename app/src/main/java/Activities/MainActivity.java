@@ -26,9 +26,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-
-
-
         //Methods
         onbackedpressed();
 
